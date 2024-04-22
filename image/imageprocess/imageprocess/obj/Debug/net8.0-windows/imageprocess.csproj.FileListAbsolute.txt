@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\bin\Debug\net8.0-windows\imageprocess.exe
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\bin\Debug\net8.0-windows\imageprocess.deps.json
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\bin\Debug\net8.0-windows\imageprocess.runtimeconfig.json
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\bin\Debug\net8.0-windows\imageprocess.dll
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\bin\Debug\net8.0-windows\imageprocess.pdb
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.Form1.resources
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.AssemblyInfo.cs
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.dll
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\refint\imageprocess.dll
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.pdb
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\imageprocess.genruntimeconfig.cache
+C:\Users\user\OneDrive\桌面\image\imageprocess\imageprocess\obj\Debug\net8.0-windows\ref\imageprocess.dll
